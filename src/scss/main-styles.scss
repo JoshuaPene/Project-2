@@ -328,6 +328,10 @@ flex-direction: column;
   }
 }
 
+ul.row{
+  padding: 0;
+}
+
 .row ul{
   //display: inline-flex;
   max-width: 750px;
